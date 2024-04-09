@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none">
+    <style>
+@keyframes red_t { 0% { transform: translate(8px,8px) scale(0.599557,0.599557); animation-timing-function: cubic-bezier(0.410919,0.042788,0.577655,1); } 72.9166% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red_o { 0% { opacity: 0.998819; animation-timing-function: cubic-bezier(0.410919,0.042788,0.577655,1); } 72.9167% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-2_t { 0% { transform: translate(8px,8px) scale(0.478511,0.478511); animation-timing-function: cubic-bezier(0.296394,0.465982,0.573841,1); } 10.4166% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-2_o { 0% { opacity: 0.676029; animation-timing-function: cubic-bezier(0.296394,0.465982,0.573841,1); } 10.4167% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-3_t { 0% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 18.75% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-3_o { 0% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 18.75% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-4_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 6.25% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 8.3333% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 27.0833% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-4_o { 0% { opacity: 0.2; } 6.25% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 8.3333% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 27.0833% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-5_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 14.5833% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 16.6666% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 35.4166% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-5_o { 0% { opacity: 0.2; } 14.5833% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 16.6667% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 35.4167% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-6_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 22.9166% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 43.75% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-6_o { 0% { opacity: 0.2; } 22.9167% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 43.75% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-7_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 31.25% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 33.3333% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 52.0833% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-7_o { 0% { opacity: 0.2; } 31.25% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 33.3333% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 52.0833% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-8_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 39.5833% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 41.6666% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 60.4166% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-8_o { 0% { opacity: 0.2; } 39.5833% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 41.6667% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 60.4167% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-9_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 47.9166% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 68.75% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-9_o { 0% { opacity: 0.2; } 47.9167% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 68.75% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-10_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 56.25% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 58.3333% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 77.0833% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-10_o { 0% { opacity: 0.2; } 56.25% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 58.3333% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 77.0833% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-11_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 64.5833% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 66.6666% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 85.4166% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-11_o { 0% { opacity: 0.2; } 64.5833% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 66.6667% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 85.4167% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-12_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 72.9166% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 75% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 93.75% { transform: translate(8px,8px) scale(0.3,0.3); } 100% { transform: translate(8px,8px) scale(0.3,0.3); } }
+@keyframes red-12_o { 0% { opacity: 0.2; } 72.9167% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 75% { opacity: 1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 93.75% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes red-13_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 81.25% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 83.3333% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.428449,0,0.616395,0.842844); } 100% { transform: translate(8px,8px) scale(0.307336,0.307336); } }
+@keyframes red-13_o { 0% { opacity: 0.2; } 81.25% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 83.3333% { opacity: 1; animation-timing-function: cubic-bezier(0.428449,0,0.616395,0.842844); } 100% { opacity: 0.219564; } }
+@keyframes red-14_t { 0% { transform: translate(8px,8px) scale(0.3,0.3); } 89.0833% { transform: translate(8px,8px) scale(0.3,0.3); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 91.1666% { transform: translate(8px,8px) scale(0.6,0.6); animation-timing-function: cubic-bezier(0.416171,0,0.712076,0.483941); } 100% { transform: translate(8px,8px) scale(0.464911,0.464911); } }
+@keyframes red-14_o { 0% { opacity: 0.2; } 89.0833% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 91.1667% { opacity: 1; animation-timing-function: cubic-bezier(0.416171,0,0.712076,0.483941); } 100% { opacity: 0.639762; } }
+    </style>
+    <defs>
+        <symbol id="Symbol-1" preserveAspectRatio="none" width="16" height="16" viewBox="0 0 16 16" overflow="visible">
+            <ellipse id="red" fill="#69717f" rx="8" ry="8" opacity="0.998819" transform="translate(8,8) scale(0.599557,0.599557)" style="animation: 2.4s linear infinite both red_t, 2.4s linear infinite both red_o;"/>
+        </symbol>
+    </defs>
+    <g id="symbol" transform="translate(32.7617,8.59375) translate(-8,-8)">
+        <ellipse id="red-2" fill="#69717f" rx="8" ry="8" opacity="0.676029" transform="translate(8,8) scale(0.478511,0.478511)" style="animation: 2.4s linear infinite both red-2_t, 2.4s linear infinite both red-2_o;"/>
+    </g>
+    <g id="symbol-2" fill="none" transform="translate(44.7617,11.8086) translate(-8,-8)">
+        <ellipse id="red-3" fill="#69717f" rx="8" ry="8" opacity="1" transform="translate(8,8) scale(0.6,0.6)" style="animation: 2.4s linear infinite both red-3_t, 2.4s linear infinite both red-3_o;"/>
+    </g>
+    <g id="symbol-3" fill="none" transform="translate(53.5469,20.5938) translate(-8,-8)">
+        <ellipse id="red-4" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-4_t, 2.4s linear infinite both red-4_o;"/>
+    </g>
+    <g id="symbol-4" fill="none" transform="translate(56.7617,32.5) translate(-8,-8)">
+        <ellipse id="red-5" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-5_t, 2.4s linear infinite both red-5_o;"/>
+    </g>
+    <g id="symbol-5" fill="none" transform="translate(53.5469,44.5938) translate(-8,-8)">
+        <ellipse id="red-6" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-6_t, 2.4s linear infinite both red-6_o;"/>
+    </g>
+    <g id="symbol-6" fill="none" transform="translate(44.7617,53.3789) translate(-8,-8)">
+        <ellipse id="red-7" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-7_t, 2.4s linear infinite both red-7_o;"/>
+    </g>
+    <g id="symbol-7" fill="none" transform="translate(32.7617,56.5938) translate(-8,-8)">
+        <ellipse id="red-8" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-8_t, 2.4s linear infinite both red-8_o;"/>
+    </g>
+    <g id="symbol-8" fill="none" transform="translate(20.7617,53.3789) translate(-8,-8)">
+        <ellipse id="red-9" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-9_t, 2.4s linear infinite both red-9_o;"/>
+    </g>
+    <g id="symbol-9" fill="none" transform="translate(11.9785,44.5938) translate(-8,-8)">
+        <ellipse id="red-10" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-10_t, 2.4s linear infinite both red-10_o;"/>
+    </g>
+    <g id="symbol-10" fill="none" transform="translate(8.76172,32.5938) translate(-8,-8)">
+        <ellipse id="red-11" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-11_t, 2.4s linear infinite both red-11_o;"/>
+    </g>
+    <g id="symbol-11" fill="none" transform="translate(11.9785,20.5938) translate(-8,-8)">
+        <ellipse id="red-12" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-12_t, 2.4s linear infinite both red-12_o;"/>
+    </g>
+    <g id="symbol-12" fill="none" transform="translate(20.7617,11.8086) translate(-8,-8)">
+        <ellipse id="red-13" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-13_t, 2.4s linear infinite both red-13_o;"/>
+    </g>
+    <g id="symbol-13" fill="none" transform="translate(32.7617,8.59375) translate(-8,-8)">
+        <ellipse id="red-14" fill="#69717f" rx="8" ry="8" opacity="0.2" transform="translate(8,8) scale(0.3,0.3)" style="animation: 2.4s linear infinite both red-14_t, 2.4s linear infinite both red-14_o;"/>
+    </g>
+</svg>
